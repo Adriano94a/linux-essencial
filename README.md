@@ -5,7 +5,7 @@
 
 ## 🗺️ Sumário
 - [📂 Navegação no Sistema de Arquivos](#-navegação-no-sistema-de-arquivos)
-- [🔐 Permissões e Propriedades](#-permissões-e-propriedades)
+- [🔐 Permissões e Propriedades](./permissoes/README.md)
 - [👥 Usuários e Grupos](#-usuários-e-grupos)
 - [⚙️ Processos e Serviços](#-processos-e-serviços)
 - [📦 Gerenciamento de Pacotes](#-gerenciamento-de-pacotes)
